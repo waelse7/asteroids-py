@@ -5,9 +5,9 @@ A simple asteroid game developed using Python and Pygame.
 ## Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/waelse7/asteroids-py.git
-   ```
+```bash
+git clone https://github.com/waelse7/asteroids-py.git
+```
 Install the required packages:
 
 ```bash
